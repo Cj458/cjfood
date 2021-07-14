@@ -22,6 +22,11 @@
     "use-reducer-thunk": "^1.0.8",
     "web-vitals": "^1.1.2",
     "yarn": "^1.22.10"
+
+    
+  },
+  "engines": {
+     "node": "14.17.3"
   },
   "scripts": {
     "server": "nodemon --watch server.js --exec node server.js",
